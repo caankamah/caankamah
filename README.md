@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **web applications**
 
-- 📫 How to reach me **cassandraankamah14@gmail.com**
+- 📫 Reach me through my email: **cassandraankamah14@gmail.com**
 
 - 💡 Feel free to look through my repos!
 
