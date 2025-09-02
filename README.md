@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Cassandra Ankamah</h1>
 <h3 align="center">Aspiring to be a full-stack engineer</h3>
 
-- 🌱 I’m currently learning **React, Vue.js**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **web applications**
 
