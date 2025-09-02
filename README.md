@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/cassandra-ankamah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cassandra-ankamah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cassandra-ankamah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cassandra-ankamah" height="30" width="40" /></a>
+<a href="https://codepen.io/Cassandra-Ankamah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cassandra-ankamah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cassandra-ankamah-a71468361/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cassandra-ankamah" height="30" width="40" /></a>
 <a href="https://instagram.com/a.c._adoley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.c._adoley" height="30" width="40" /></a>
 </p>
 
